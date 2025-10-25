@@ -1,3 +1,45 @@
+# 🌿 Hedera Green Dashboard
+
+**An AI-powered carbon tracker for decentralized infrastructure nodes, built on Hedera (mock integration).**
+
+This frontend-only React dApp estimates and visualizes carbon emissions from decentralized devices using simple AI-style logic and simulates recording the results “on-chain” with Hedera.  
+
+---
+
+## 🚀 Features
+
+- **AI Simulation:** Calculates an estimated carbon footprint from device metrics (mock AI logic in JS).  
+- **Mock Hedera Logging:** Pretends to store emission data “on-chain.”  
+- **Sustainability Dashboard:** Displays carbon scores, timestamps, and sustainability insights.  
+- **Built with:** React + Tailwind CSS.  
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| Frontend | React (Vite or CRA) |
+| Styling | Tailwind CSS |
+| Logic | JavaScript (Mock AI Simulation) |
+| Blockchain | Mock Hedera API Integration |
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Charles-nyoiro/hedera-green-dashboard.git
+
+# Navigate into the project
+cd hedera-green-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
